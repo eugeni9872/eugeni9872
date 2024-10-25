@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **react, django, python and javascript**
 
-- 📫 How to reach me **eugenibejan'at'gmail'dot'com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
